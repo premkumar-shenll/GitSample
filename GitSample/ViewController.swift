@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        println("this is my new git source control")
+        println("this is latest source")
     }
 
     override func didReceiveMemoryWarning() {
